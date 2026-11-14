@@ -1,0 +1,11 @@
+{
+  "name": "happy-little-grove",
+  "version": "0.1.0",
+  "description": "Seeded Bob Ross landscapes, painted as SVG",
+  "type": "module",
+  "main": "grove.mjs",
+  "bin": { "grove": "./grove.mjs" },
+  "scripts": { "test": "node --test", "gallery": "node grove.mjs --gallery examples --count 8" },
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
