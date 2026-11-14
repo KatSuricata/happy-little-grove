@@ -7,7 +7,10 @@ browser: one number goes in, a painting comes out.
 node grove.mjs --seed 7 --scene lake --out lake.svg
 ```
 
-![five scenes](examples/index.html)
+![six seeds](examples/preview.jpg)
+
+The six files in `examples/` are generated, not drawn by hand; `examples/index.html`
+shows them together.
 
 ## What it does
 
